@@ -1,0 +1,27 @@
+body{
+    background: #F7F8FC;
+}
+
+.wrap{
+    display: flex;
+}
+
+.main-section{
+    width: 100%;
+    margin-left: 255px;
+    padding: 10px;
+}
+
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.footer{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
